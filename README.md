@@ -10,7 +10,7 @@ This is the hardware used on this project:
 * [RobotDyn 16 button keypad module][6]
 
 # Software
-[Snowflake][7] is a high-level programming language developed to program the device using its numeric keypad. An [interpreter][8] that can be run on Linux has also been developed to play with the language.
+[Snowflake][7] is a high-level programming language developed to program the device using its numeric keypad. An interpreter that can be run on Linux has also been developed to play with the language.
 
 [1]: https://en.wikipedia.org/wiki/KIM-1
 [2]: https://en.wikipedia.org/wiki/Sharp_PC-1500
@@ -18,5 +18,4 @@ This is the hardware used on this project:
 [4]: https://maelys.bio/
 [5]: https://www.amazon.ca/Quimat-Serial-Module-Shield-Arduino/dp/B0719R3JP7/
 [6]: https://www.amazon.ca/RobotDyn-module-Compatible-Raspberry-Assembled/dp/B071KB7RZ5/
-[7]: snowflake/docs/
-[8]: snowflake/
+[7]: https://github.com/maelys-mcardle/snowflake
